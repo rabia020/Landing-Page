@@ -1,0 +1,87 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+.rh{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+
+}
+
+.flex-col{
+    flex-direction: column;
+
+}
+.font-bold{
+    font-weight: 900;
+
+}
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+.my-3{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+
+}
+.text-blue{
+    color: rgb(199 127 128);
+}
+.btn{
+    padding: 7px 12px;
+    border: 2px solid rgb(228, 228, 241);
+    cursor: pointer;
+    border-radius: 6px;
+    color: white;
+    background-color: rgb(165, 99, 100);
+    
+}
+.btn-2{
+    padding: 7px 12px;
+    border: 2px solid rgb(228, 228, 241);
+    cursor: pointer;
+    border-radius: 6px;
+    color: white;
+    height: 50px;
+    width: 197px;
+    background-color: rgb(165, 99, 100);
+    
+
+}
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+.icons{
+    font-size: 30px;
+    color: #c88080;
+    margin: 25px 10px;
+}
+.twitter, .linkedin, .facebook, .youtube, .instagram{
+    padding: 0 12px;
+}
+.hr-2{
+    margin: 20px;
+}
